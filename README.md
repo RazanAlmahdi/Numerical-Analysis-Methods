@@ -2,7 +2,7 @@
 
 ## Purpose
 <!--Purpose of the project-->
-This poject is an implementation of multiple numerical methods in Matlab.
+This poject solves algebraic problems and differentiation equations using the implementation of multiple numerical methods in Matlab.
 <!--Header 2 description of the project-->
 ## Description
 
@@ -22,8 +22,9 @@ The methods include:
 ## Authors
 <!-- The contributors to the project-->
 * [Aicha Sidiya](https://github.com/AichaSidiya)
-* [Hanin Alzaher](https://github.com/hanin-az)
 * [Razan Almahdi](https://github.com/RazanAlmahdi)
+* [Hanin Alzaher](https://github.com/hanin-az)
+
 
 ## Acknowledgments
 <!-- Insparation files, codes, and general refrences used in writing the code of the project-->
